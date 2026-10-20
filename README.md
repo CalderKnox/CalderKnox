@@ -80,8 +80,6 @@
     </div>
 </div>
 
-| ------------- | ------------- |
-
 <p align="center">
   <a href="http://github.com/calderKnox">
     <img src="https://github-profile-trophy.vercel.app/?username=azwpayne&row=1&column=7&margin-w=21&margin-h=9"/>
